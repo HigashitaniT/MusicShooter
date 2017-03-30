@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 1fad186c89f212143bf8f75e69fe176c
+timeCreated: 1489908196
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Digital System
+  fontNames:
+  - Digital System
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

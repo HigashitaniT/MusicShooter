@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicShooter", "Assembly-CSharp-firstpass.csproj", "{E8832956-2D9F-EBB5-0291-D85FDBD0120F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicShooter", "Assembly-CSharp.csproj", "{FB4A3CC5-DA1B-0DEC-1B89-F9C705D44D6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8832956-2D9F-EBB5-0291-D85FDBD0120F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8832956-2D9F-EBB5-0291-D85FDBD0120F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8832956-2D9F-EBB5-0291-D85FDBD0120F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8832956-2D9F-EBB5-0291-D85FDBD0120F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB4A3CC5-DA1B-0DEC-1B89-F9C705D44D6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB4A3CC5-DA1B-0DEC-1B89-F9C705D44D6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB4A3CC5-DA1B-0DEC-1B89-F9C705D44D6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB4A3CC5-DA1B-0DEC-1B89-F9C705D44D6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
